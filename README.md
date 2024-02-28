@@ -1,8 +1,8 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+ {/* instead of using container.md we can use 768px */} in Auth Page
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+You can explore size chart on chakra UI : (https://chakra-ui.com/docs/styled-system/theme#sizes)
+
+If we want to do something responsive we put another object {{}} Like this in auth page 
